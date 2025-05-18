@@ -15,6 +15,9 @@ header {
     text-align: center;
 }
 
+header h1 {
+    text-align: center;
+}
 section {
     background: #ffffff;
     padding: 20px;
